@@ -1,5 +1,6 @@
 {
-  "name": "newrobofriends",
+  "name": "React-App",
+  "homepage": "https://codinggilm.github.io/React-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
